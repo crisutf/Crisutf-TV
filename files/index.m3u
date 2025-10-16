@@ -23,9 +23,6 @@ http://185.189.225.149/A3Series/index.m3u8
 #EXTINF:-1,Action Movie | Rakuten TV
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 
-#EXTINF:-1,AMC ⚠️ | España
-http://185.189.225.150:80/AMC/index.m3u8
-
 #EXTINF:-1,Antena 3 | España
 http://185.189.225.152/Antena3HD/index.m3u8
 
@@ -50,14 +47,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1,Boing | España
 http://185.189.225.157/BOING/index.m3u8
 
-#EXTINF:-1,BOM ⚠️ | España
-https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
-
 #EXTINF:-1,Calle 13 | España
 http://185.189.225.152/CALLE13/index.m3u8
-
-#EXTINF:-1,Canal 4 | España
-https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
 
 #EXTINF:-1,Canal Sur Andalucia | España 
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
@@ -76,9 +67,6 @@ https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 
 #EXTINF:-1,Comedia | Rakuten TV
 https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-
-#EXTINF:-1,Comedy Central ⚠️ | España
-http://185.189.225.152/ComedyCentral/index.m3u8
 
 #EXTINF:-1,Cops en Español | Rakuten TV
 https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
@@ -170,9 +158,6 @@ http://185.189.225.149/historia/index.m3u8
 #EXTINF:-1,HIT TV | España
 http://185.189.225.149/HitTV/index.m3u8
 
-#EXTINF:-1,Hollywood ⚠️ | España
-http://185.189.225.149/Hollywood/index.m3u8
-
 #EXTINF:-1,Horse TV | España
 https://tsw.streamingwebtv24.it:1936/inteccdn5/inteccdn5/playlist.m3u8
 
@@ -195,7 +180,7 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1,La 8 Mediterráneo
-https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u
+https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 
 #EXTINF:-1,La Mega Mundial | España
 https://server40.servistreaming.com:3477/stream/play.m3u8
@@ -203,8 +188,8 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1,LaOtra | España
 https://laotra-1-23-secure2.akamaized.net/bitrate_1.m3u8
 
-#EXTINF:-1,La Sexta ⚠️ | España
-https://world-proxifier.xyz/daddylive/p/D42HAFRXHQQTCZIBHMSDAXYSDEPBABIDAQ/index.m3u8
+#EXTINF:-1,La Sexta | España
+https://atres-live.atresmedia.com/1c9364b7f886ab2fdfab5fc77198211be26d0890_ES_1760634747_1760663487/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
 #EXTINF:-1,LaLiga Inside | Rakuten TV
 https://daiconnect.com/live/hls/tvup/rk-ligainside/90358dc4f9a2bcc58260c53040284584/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_did=93f81dba-d137-4fd1-a72b-552704745d80&ads_env=prod&ads_gam_correlator=259980630754705&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_opt_out_flag=0&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=c38268a6-c1a2-4834-8540-4ec3abda11a8&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=registered&requestuid=ba6482aa-cfe3-435e-b2d7-977830ae6bb1
@@ -257,13 +242,16 @@ http://185.189.225.149/MTVClub/index.m3u8
 #EXTINF:-1,MTVHits | España
 http://185.189.225.157/MTVHits/index.m3u8
 
+#EXTINF:-1,MyPadel TV | Rakuten TV
+https://daiconnect.com/live/hls/tvup/rk-mypadeltv/bdc9fb472047c826c9ff885b2b0fd980/index.m3u8
+
 #EXTINF:-1,National Geographic | España
 http://185.189.225.157/NationalGeographic/index.m3u8
 
 #EXTINF:-1,Nature Time | Rakuten TV
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Nautical Channel| España
+#EXTINF:-1,Nautical Channel | España
 https://tsw.streamingwebtv24.it:1936/inteccdn2/inteccdn2/playlist.m3u8
 
 #EXTINF:-1,Negocios | España
@@ -323,9 +311,6 @@ https://ztnr.rtve.es/ztnr/6922467.m3u8
 #EXTINF:-1,RTVE Somos Cine | España
 https://ztnr.rtve.es/ztnr/6909845.m3u8
 
-#EXTINF:-1,RTVE Talent | España
-https://ztnr.rtve.es/ztnr/16510071.m3u8
-
 #EXTINF:-1,Sky Sports | España
 http://190.92.10.66:4000/play/a001/index.m3u8
 
@@ -333,9 +318,6 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 
 #EXTINF:-1,Somos | España
 http://185.189.225.157/somos/index.m3u8
-
-#EXTINF:-1,SYFY ⚠️ | España
-http://185.189.225.152/SYFY/index.m3u8
 
 #EXTINF:-1,TCM | España
 http://185.189.225.149/tcm/index.m3u8
@@ -384,16 +366,3 @@ https://daiconnect.com/live/hls/tvup/rk-vivirconperros/bdc9fb472047c826c9ff885b2
 
 #EXTINF:-1,WarnerTV | España
 http://185.189.225.152/WarnerTV/index.m3u8
-
-#EXTINF:-1,WWE
-http://181.78.106.127:9000/play/ca040/index.m3u8
-
-#EXTINF:-1,XTRM ⚠️ | España
-http://185.189.225.149/xtrm/index.m3u8
-
-
-
-
-
-
-
