@@ -1,7 +1,8 @@
 #EXTM3U
 # Crisutf
 #EXTINF:-1 group-title="Crisutf",Test
-https://projectf-crisutf.pages.dev/media/newchannel.mp4
+https://tvup01.edge.milloh-cs.com/lasexta/lasexta.mpd
+::https://projectf-crisutf.pages.dev/media/newchannel.mp4
 
 # Canales
 
@@ -367,5 +368,6 @@ https://daiconnect.com/live/hls/tvup/rk-vivirconperros/bdc9fb472047c826c9ff885b2
 
 #EXTINF:-1,WarnerTV | España
 http://185.189.225.152/WarnerTV/index.m3u8
+
 
 
