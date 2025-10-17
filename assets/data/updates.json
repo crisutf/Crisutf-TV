@@ -1,5 +1,10 @@
 {
   "updates": [
+        {
+      "date": "17/10/2025",
+      "title": "Aviso de soporte",
+      "description": "Los canales AMC, BOM, Canal 4, Comedy Central, Hollywood, RTVE Talent, SYFY, WWE y XTRM han sido eliminados por que: Los canales de los server 49, 50:85, 52, 127 y 152 han dejado de transmitir señal o la emision desde hace mas de 3 meses."
+    },
     {
       "date": "05/10/2025",
       "title": "Aviso de soporte",
@@ -123,3 +128,4 @@
   ]
 
 }
+
