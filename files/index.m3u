@@ -189,7 +189,7 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 https://laotra-1-23-secure2.akamaized.net/bitrate_1.m3u8
 
 #EXTINF:-1,La Sexta | España
-https://atres-live.atresmedia.com/53c77246857ecd02cf1af79e2e10108292f89d69_ES_1760744453_1760773193/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/c28aea480057c8cb9d23ff822362a2bb6285e8d5_ES_1760744790_1760773530/hlsts/live/a3series_usp/a3series_usp.isml/playlist.m3u8
 
 #EXTINF:-1,LaLiga Inside | Rakuten TV
 https://daiconnect.com/live/hls/tvup/rk-ligainside/90358dc4f9a2bcc58260c53040284584/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_did=93f81dba-d137-4fd1-a72b-552704745d80&ads_env=prod&ads_gam_correlator=259980630754705&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_opt_out_flag=0&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=c38268a6-c1a2-4834-8540-4ec3abda11a8&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=registered&requestuid=ba6482aa-cfe3-435e-b2d7-977830ae6bb1
@@ -367,6 +367,7 @@ https://daiconnect.com/live/hls/tvup/rk-vivirconperros/bdc9fb472047c826c9ff885b2
 
 #EXTINF:-1,WarnerTV | España
 http://185.189.225.152/WarnerTV/index.m3u8
+
 
 
 
