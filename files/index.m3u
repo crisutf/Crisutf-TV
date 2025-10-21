@@ -107,6 +107,9 @@ http://185.189.225.157/Discovery/index.m3u8
 #EXTINF:-1,Disney Channel | Español
 http://181.78.106.127:9000/play/ca053/index.m3u8
 
+#EXTINF:-1,El Confidencial TV | España
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
 #EXTINF:-1,El País | España
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
@@ -310,6 +313,9 @@ https://ztnr.rtve.es/ztnr/6922467.m3u8
 
 #EXTINF:-1,RTVE Somos Cine | España
 https://ztnr.rtve.es/ztnr/6909845.m3u8
+
+#EXTINF:-1,RTV Vida | España
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
 #EXTINF:-1,Sky Sports | España
 http://190.92.10.66:4000/play/a001/index.m3u8
