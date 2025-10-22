@@ -33,7 +33,7 @@ https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/60579
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1,AXN | España
-http://185.189.225.152/AXN/index.m3u8
+http://185.189.225.152/anx/index.m3u8
 
 #EXTINF:-1,Baby TV | España
 http://185.189.225.149/BabyTV/index.m3u8
