@@ -47,8 +47,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1,Boing | España
 http://185.189.225.157/BOING/index.m3u8
 
-#EXTINF:-1,Calle 13 | España
-http://185.189.225.152/CALLE13/index.m3u8
+#EXTINF:-1,Calle 13 ⚠️ | España
+https://projectf-crisutf.pages.dev/media/404.mp4
 
 #EXTINF:-1,Canal Sur Andalucia | España 
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
@@ -74,8 +74,8 @@ https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Crímenes Reales | Rakuten TV
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Cuatro | España
-http://185.189.225.152/CuatroHD/index.m3u8
+#EXTINF:-1,Cuatro ⚠️ | España
+https://projectf-crisutf.pages.dev/media/404.mp4
 
 #EXTINF:-1,DARK | España
 http://185.189.225.157/dark/index.m3u8
@@ -228,7 +228,7 @@ https://projectf-crisutf.pages.dev/media/404.mp4
 https://projectf-crisutf.pages.dev/media/404.mp4
 
 #EXTINF:-1,MTV | España
-http://185.189.225.149/mtv/index.m3u8
+http://185.189.225.149/MTV/index.m3u8
 
 #EXTINF:-1,MTV 00's | España
 http://185.189.225.157/MTV00s/index.m3u8
@@ -351,6 +351,7 @@ https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playl
 
 #EXTINF:-1,TV3 | España
 https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
+
 ::http://185.189.225.157/tv3/index.m3u8
 
 #EXTINF:-1,TV3 CAT | España
