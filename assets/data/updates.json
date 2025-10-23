@@ -3,7 +3,7 @@
     {
       "date": "23/10/2025",
       "title": "Aviso de soporte",
-      "description": "Los canales estan siendo puestos con el error "Mackna404" por que: Los canales de los server 49, 50:85, 52, 127 y 152 han dejado de transmitir señal o la emision."
+      "description": "Los canales estan siendo puestos con el error Mackna404 por que: Los canales de los server 49, 50:85, 52, 127 y 152 han dejado de transmitir señal o la emision."
     },
     {
       "date": "17/10/2025",
@@ -133,4 +133,5 @@
   ]
 
 }
+
 
