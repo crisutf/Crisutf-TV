@@ -50,7 +50,7 @@ http://176.65.146.237:8401/play/a0aj/index.m3u8
 #EXTINF:-1,Boing | España
 http://185.189.225.157/BOING/index.m3u8
 
-#EXTINF:-1,BOM | España
+#EXTINF:-1,BOM Cine | España
 http://176.65.146.237:8401/play/a09d/index.m3u8
 
 #EXTINF:-1,Calle 13 ⚠️ | España
@@ -80,8 +80,8 @@ https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Crímenes Reales | Rakuten TV
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Cuatro ⚠️ | España
-https://projectf-crisutf.pages.dev/media/404.mp4
+#EXTINF:-1,Cuatro | España
+http://176.65.146.237:8401/play/a09s/index.m3u8
 
 #EXTINF:-1,DARK ⚠️ | España
 https://projectf-crisutf.pages.dev/media/404.mp4
@@ -95,6 +95,9 @@ http://185.189.225.157/Discovery/index.m3u8
 #EXTINF:-1,Disney Channel | Español
 http://181.78.106.127:9000/play/ca053/index.m3u8
 
+#EXTINF:-1,Divinity | España
+http://176.65.146.237:8401/play/a09q/index.m3u8
+
 #EXTINF:-1,El Confidencial TV | España
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
@@ -103,6 +106,9 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1,El Toro TV | España
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+
+#EXTINF:-1,Energy | España
+http://176.65.146.237:8401/play/a0ac/index.m3u8
 
 #EXTINF:-1,Esport3 | España
 https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
@@ -161,6 +167,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1,La 1 | España
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
+#EXTINF:-1,La 1 4K | España
+http://176.65.146.237:8401/play/a09u/index.m3u8
+
 #EXTINF:-1,La 2 | España
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
@@ -174,7 +183,9 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 https://laotra-1-23-secure2.akamaized.net/bitrate_1.m3u8
 
 #EXTINF:-1,La Sexta | España
-https://atres-live.atresmedia.com/0e11735e008660aed19e0129a4f69ca0dfe9ebfe_ES_1761317224_1761345964/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+http://176.65.146.237:8401/play/a0af/index.m3u8
+
+::https://atres-live.atresmedia.com/0e11735e008660aed19e0129a4f69ca0dfe9ebfe_ES_1761317224_1761345964/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
 #EXTINF:-1,LaLiga Inside | Rakuten TV
 https://daiconnect.com/live/hls/tvup/rk-ligainside/90358dc4f9a2bcc58260c53040284584/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_did=93f81dba-d137-4fd1-a72b-552704745d80&ads_env=prod&ads_gam_correlator=259980630754705&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_opt_out_flag=0&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=c38268a6-c1a2-4834-8540-4ec3abda11a8&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=registered&requestuid=ba6482aa-cfe3-435e-b2d7-977830ae6bb1
@@ -222,10 +233,12 @@ http://185.189.225.157/neox/index.m3u8
 https://projectf-crisutf.pages.dev/media/404.mp4
 
 #EXTINF:-1,Nova | España
-https://atres-live.atresmedia.com/41324f87bcd1c6bf7ffe4b29c416c94168291308_ES_1761317186_1761345926/hlsts/live/nova_usp/nova_usp.isml/playlist.m3u8
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 
-#EXTINF:-1,Paramount ⚠️ | España
-https://projectf-crisutf.pages.dev/media/404.mp4
+::https://atres-live.atresmedia.com/41324f87bcd1c6bf7ffe4b29c416c94168291308_ES_1761317186_1761345926/hlsts/live/nova_usp/nova_usp.isml/playlist.m3u8
+
+#EXTINF:-1,Paramount | España
+http://176.65.146.237:8401/play/a09i/index.m3u8
 
 #EXTINF:-1,Peliculas Top | Rakuten TV
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
@@ -243,7 +256,9 @@ https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/
 https://newidco-rakutenviki-3-es.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,RealMadrid TV | España
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+http://176.65.146.237:8401/play/a0ak/index.m3u8
+
+::https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1,RedBull TV | Rakuten TV
 https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
@@ -280,20 +295,26 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1,Somos | España
 http://185.189.225.157/somos/index.m3u8
 
+#EXTINF:-1,Squirrel | España
+http://176.65.146.237:8401/play/a09h/index.m3u8
+
 #EXTINF:-1,TCM | España
 http://185.189.225.149/tcm/index.m3u8
 
 #EXTINF:-1,Tdp | España
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8
 
-#EXTINF:-1,Telecinco ⚠️ | España
-https://projectf-crisutf.pages.dev/media/404.mp4
+#EXTINF:-1,Telecinco | España
+http://176.65.146.237:8401/play/a09r/index.m3u8
 
 #EXTINF:-1,TeleMadrid | España
 https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
 
 #EXTINF:-1,TELEHIT | España
 http://185.189.225.152/TELEHIT/index.m3u8
+
+#EXTINF:-1,TEN | España
+http://176.65.146.237:8401/play/a0al/index.m3u8
 
 #EXTINF:-1,The Pet Collective | Samsung TV
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
@@ -302,7 +323,9 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
 
 #EXTINF:-1,TRECE | España
-https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+http://176.65.146.237:8401/play/a0a9/index.m3u8
+
+::https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 
 #EXTINF:-1,TV3 | España
 https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
@@ -321,6 +344,9 @@ https://rtvelivestream.rtve.es/rtvesec/int/star_main.m3u8
 #EXTINF:-1,Vevo Pop Spain | Rakuten TV
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,Veo7 | España
+http://176.65.146.237:8401/play/a09k/index.m3u8
+
 #EXTINF:-1,Vivir con Gatos | Rakuten TV
 https://daiconnect.com/live/hls/tvup/rk-vivircongatos/bdc9fb472047c826c9ff885b2b0fd980/index.m3u8
 
@@ -329,14 +355,3 @@ https://daiconnect.com/live/hls/tvup/rk-vivirconperros/bdc9fb472047c826c9ff885b2
 
 #EXTINF:-1,WarnerTV | España
 http://185.189.225.152/WarnerTV/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
