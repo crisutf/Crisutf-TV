@@ -32,8 +32,8 @@ https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/60579
 #EXTINF:-1,Aragón TV | España
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1,AXN ⚠️ | España
-https://projectf-crisutf.pages.dev/media/404.mp4
+#EXTINF:-1,AXN | Español
+http://181.119.86.68:8000/play/c016/index.m3u8
 
 #EXTINF:-1,Baby TV | España
 http://185.189.225.149/BabyTV/index.m3u8
@@ -193,6 +193,9 @@ https://daiconnect.com/live/hls/tvup/rk-ligainside/90358dc4f9a2bcc58260c53040284
 #EXTINF:-1,Mega | España
 http://185.189.225.149/mega/index.m3u8
 
+#EXTINF:-1,Movistar LaLiga | España
+http://181.78.106.127:9000/play/ca027/index.m3u8
+
 #EXTINF:-1,MTV | España
 http://185.189.225.149/MTV/index.m3u8
 
@@ -231,6 +234,9 @@ http://185.189.225.157/neox/index.m3u8
 
 #EXTINF:-1,Nickelodeon ⚠️ | España
 https://projectf-crisutf.pages.dev/media/404.mp4
+
+#EXTINF:-1,NickJr | España
+http://185.189.225.157/NickJr/index.m3u8
 
 #EXTINF:-1,Nova | España
 http://176.65.146.237:8401/play/a0ah/index.m3u8
