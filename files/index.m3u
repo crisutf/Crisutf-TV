@@ -44,8 +44,14 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,BEIN SPORT EXTRA Ñ | España
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
+#EXTINF:-1,Be Mad | España
+http://176.65.146.237:8401/play/a0aj/index.m3u8
+
 #EXTINF:-1,Boing | España
 http://185.189.225.157/BOING/index.m3u8
+
+#EXTINF:-1,BOM | España
+http://176.65.146.237:8401/play/a09d/index.m3u8
 
 #EXTINF:-1,Calle 13 ⚠️ | España
 https://projectf-crisutf.pages.dev/media/404.mp4
