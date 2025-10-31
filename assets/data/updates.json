@@ -3,6 +3,11 @@
     {
       "date": "23/10/2025",
       "title": "Aviso de soporte",
+      "description": "Los canales de los server 49, 52, 57 han caido y eso significa que casi todos los canales Codigo: Mackna 404 lo bueno que ya hay otro server usado lo malo que no sabemos por que desde la app no reproduce la transmision."
+    },
+    {
+      "date": "23/10/2025",
+      "title": "Aviso de soporte",
       "description": "Los canales estan siendo puestos con el error Mackna404 por que: Los canales de los server 49, 50:85, 52, 127 y 152 han dejado de transmitir señal o la emision."
     },
     {
@@ -133,5 +138,6 @@
   ]
 
 }
+
 
 
