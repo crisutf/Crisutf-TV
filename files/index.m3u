@@ -56,11 +56,14 @@ http://176.65.146.237:8401/play/a09d/index.m3u8
 #EXTINF:-1,Calle 13 ⚠️ | España
 https://projectf-crisutf.pages.dev/media/404.mp4
 
+#EXTINF:-1,Canal Sur 2 | España 
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
 #EXTINF:-1,Canal Sur Andalucia | España 
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 
-#EXTINF:-1,Canal Sur 2 | España 
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1,Canal Sur Más Noticias | España 
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 
 #EXTINF:-1,CGNT Documentary | Rakuten TV
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
@@ -125,6 +128,9 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:-1,ETB Basque | España
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
+#EXTINF:-1,ETB Deportes | España
+https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
+
 #EXTINF:-1,Euronews | Rakuten TV
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
@@ -154,6 +160,9 @@ https://projectf-crisutf.pages.dev/media/404.mp4
 
 #EXTINF:-1,HIT TV ⚠️ | España
 https://projectf-crisutf.pages.dev/media/404.mp4
+
+#EXTINF:-1,¿Hola! Play | España
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
 #EXTINF:-1,Horse TV | España
 https://tsw.streamingwebtv24.it:1936/inteccdn5/inteccdn5/playlist.m3u8
@@ -250,6 +259,9 @@ https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1,People are Awesome | Samsung TV
 https://jukin-peopleareawesome-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Pequeradio TV | España
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1,Platzi TV | España
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
@@ -361,6 +373,9 @@ https://daiconnect.com/live/hls/tvup/rk-vivirconperros/bdc9fb472047c826c9ff885b2
 
 #EXTINF:-1,WarnerTV ⚠️ | España
 https://projectf-crisutf.pages.dev/media/404.mp4
+
+#EXTINF:-1,ZAZ TV | España
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=16110&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_rating=TV-G&us_privacy=%5BUS_PRIVACY%5D&gdpr=%5BGDPR%5D&ifa_type=%5BIFA_TYPE%5D&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 group-title="Hazbin Hotel T2",Hazbin Hotel EP1 | Prime Video
 https://rumble.com/hls-vod/6ys6z6/playlist.m3u8?key=wBiH-vXNN-ZpM4RNNLSfpu9-U6pQuw-DvXpY6SnLsu5F4qo0aE0EvQ&u=0&b=0
