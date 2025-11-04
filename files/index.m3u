@@ -9,7 +9,7 @@ https://projectf-crisutf.pages.dev/media/newchannel.mp4
 https://daiconnect.com/live/hls/tvup/rk-1travel/ca0a0764b77cda379aff9ed49d3bd9c1/index.m3u8
 
 #EXTINF:-1,24h | España
-https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1,3/24 | España
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
@@ -69,7 +69,7 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 
 #EXTINF:-1,Clan | España
-https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 
 #EXTINF:-1,Comedia | Rakuten TV
 https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
@@ -170,14 +170,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1,La 1 | España
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1,La 1 {Test} | España
-http://176.65.146.237:8401/play/a095/index.m3u8
-
 #EXTINF:-1,La 1 4K | España
 http://176.65.146.237:8401/play/a09u/index.m3u8
 
 #EXTINF:-1,La 2 | España
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1,La 8 Mediterráneo
 https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
@@ -362,11 +359,11 @@ https://daiconnect.com/live/hls/tvup/rk-vivircongatos/bdc9fb472047c826c9ff885b2b
 #EXTINF:-1,Vivir con Perros | Rakuten TV
 https://daiconnect.com/live/hls/tvup/rk-vivirconperros/bdc9fb472047c826c9ff885b2b0fd980/index.m3u8
 
-#EXTINF:-1,WarnerTV | España
-http://185.189.225.152/WarnerTV/index.m3u8
+#EXTINF:-1,WarnerTV ⚠️ | España
+https://projectf-crisutf.pages.dev/media/404.mp4
 
-#EXTINF:-1,Hazbin Hotel EP1 | Prime Video
+#EXTINF:-1 group-title="Hazbin Hotel T2",Hazbin Hotel EP1 | Prime Video
 https://rumble.com/hls-vod/6ys6z6/playlist.m3u8?key=wBiH-vXNN-ZpM4RNNLSfpu9-U6pQuw-DvXpY6SnLsu5F4qo0aE0EvQ&u=0&b=0
 
-#EXTINF:-1,Hazbin Hotel EP2 | Prime Video
+#EXTINF:-1 group-title="Hazbin Hotel T2",Hazbin Hotel EP2 | Prime Video
 https://rumble.com/hls-vod/6ys6z8/playlist.m3u8?key=-g2jIOeT2jjomqAxW2e0T49KPPP6uKLbEbK5Py8ewhV32kqs_exTgQ&u=0&b=0
