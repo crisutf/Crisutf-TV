@@ -80,11 +80,8 @@ http://181.78.106.127:9000/play/ca053/index.m3u8
 #EXTINF:-1,Divinity | España
 http://176.65.146.237:8401/play/a09q/index.m3u8
 
-#EXTINF:-1,El Confidencial TV | España
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-
 #EXTINF:-1,El País | España
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+https://daiconnect.com/live/hls/tvup/rk-elpais/.m3u8
 
 #EXTINF:-1,El Toro TV | España
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
@@ -216,10 +213,9 @@ https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/
 https://newidco-rakutenviki-3-es.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,RealMadrid TV | España
-http://176.65.146.237:8401/play/a0ak/index.m3u8
-
-#EXTINF:-1,RealMadrid TV | España
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+<!-- http://176.65.146.237:8401/play/a0ak/index.m3u8 -->
 
 #EXTINF:-1,RedBull TV | Rakuten TV
 https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
@@ -277,6 +273,8 @@ http://176.65.146.237:8401/play/a0a9/index.m3u8
 
 #EXTINF:-1,TRECE | España
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+
+<!--- http://176.65.146.237:8401/play/a0a9/index.m3u8 --->
 
 #EXTINF:-1,TV3 | España
 https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
