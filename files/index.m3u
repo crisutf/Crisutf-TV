@@ -44,11 +44,23 @@ http://176.65.146.237:8401/play/a0ad/index.m3u8
 #EXTINF:-1,BOM Cine | España
 http://176.65.146.237:8401/play/a09d/index.m3u8
 
+#EXTINF:-1,Canal 33 Madrid | España 
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+
+#EXTINF:-1,Canal 45 | España
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+
+#EXTINF:-1,Canal Coín | España
+https://canalcoin.garjim.es/hls/directo.m3u8
+
 #EXTINF:-1,Canal Sur 2 | España 
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 #EXTINF:-1,Canal Sur Andalucia | España 
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+
+#EXTINF:-1,Cloudflare TV | Cloudflare
+https://customer-rhnwzxvb3mg4wz3v.cloudflarestream.com/9670db1ec306039c0abc79ec5feb3e36/manifest/video.m3u8
 
 #EXTINF:-1,Canal Sur Más Noticias | España 
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
